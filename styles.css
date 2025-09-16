@@ -1,0 +1,44 @@
+html  { 
+  background-color: black; 
+
+body  {
+  font-family: Courier New;} 
+
+article  {
+  width: 1000px;} 
+
+h1  {
+  color: lime;
+  text-align: center} 
+
+article h2 {
+  color: lime;
+  text-align: center}
+
+article p  {  
+  color:  lime;} 
+
+article h3 {
+  background-color: black; 
+  color:  lime;
+  padding: 30px;
+  text-align: center}
+
+article  figure  { 
+  width:  50%; 
+  border: 7px  dashed white; 
+  padding:  10px;} 
+
+article figure img { 
+  width: 100%;}
+
+  
+  article figure2 img { 
+    width: 50%;
+    height: 50%;
+    border: 7px  dashed white; 
+    padding:  10px;} 
+
+
+
+    
