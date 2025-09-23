@@ -10,7 +10,7 @@ article  {
 h1  {
   color: lime;
   text-align: center;
-  font-size: larger } 
+  font-size:xx-large } 
 
 article h2 {
   color: lime;
@@ -51,15 +51,15 @@ nav ul  {
     border:  5px  dashed rgb(253, 253, 253);} 
 
 
-nav ul  li  { 
+nav ul li  { 
     padding:  5px; } 
 
 
-nav ul  li  a  { 
-   color:  white; 
+nav ul li a  { 
+    color:  white; 
     text-decoration:  none;
     font-size: large; } 
 
 
-nav ul  li  a:hover  { 
+nav ul li  a:hover  { 
     text-decoration:  underline; }
