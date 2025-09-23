@@ -40,19 +40,19 @@ article figure img {
     padding:  10px;} 
 
   nav ul  { 
-  display: flex;
-  justify-content: center;
-  gap: 3vw;
-  background-color:  PaleVioletRed; 
-  list-style:  none; 
-  padding:  0; 
-  width:  200px; 
-  border:  1px  solid  MediumVioletRed; 
+    display: flex;
+    justify-content: center;
+    gap: 3vw;
+    background-color:  rgb(123, 194, 165); 
+    list-style:  none; 
+    padding:  0; 
+    width:  200px; 
+    border:  1px  solid  rgb(253, 253, 253); 
   } 
 
 
   nav ul  li  { 
-  border-bottom:  1px  solid  MediumVioletRed; 
+  border-bottom:  1px  solid  rgb(21, 30, 199); 
   padding:  5px; 
   } 
 
