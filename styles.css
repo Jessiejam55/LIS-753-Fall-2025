@@ -39,35 +39,30 @@ article figure img {
     border: 7px  dashed white; 
     padding:  10px;} 
 
-  nav ul  { 
-    display: flex;
-    justify-content: center;
-    gap: 3vw;
+nav ul  { 
+    display:inline-flex;
+    justify-content:space-around;
+    
     background-color:  rgb(123, 194, 165); 
     list-style:  none; 
     padding:  0; 
     width:  200px; 
-    border:  1px  solid  rgb(253, 253, 253); 
-  } 
+    border:  1px  solid  rgb(253, 253, 253);} 
 
 
-  nav ul  li  { 
+nav ul  li  { 
   border-bottom:  1px  solid  rgb(21, 30, 199); 
-  padding:  5px; 
-  } 
+  padding:  5px; } 
 
 
-  nav ul  li:last-child  { 
-border-bottom:  0; 
-  } 
+nav ul  li:last-child  { 
+  border-bottom:  0; } 
 
 
-  nav ul  li  a  { 
+nav ul  li  a  { 
   color:  white; 
-  text-decoration:  none; 
-  } 
+  text-decoration:  none; } 
 
 
-  nav ul  li  a:hover  { 
-  text-decoration:  underline; 
-  }
+nav ul  li  a:hover  { 
+  text-decoration:  underline; }
