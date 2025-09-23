@@ -40,11 +40,14 @@ article figure img {
     padding:  10px;} 
 
   nav ul  { 
-background-color:  PaleVioletRed; 
-list-style:  none; 
-padding:  0; 
-width:  200px; 
-border:  1px  solid  MediumVioletRed; 
+  display: flex;
+  justify-content: center;
+  gap: 3vw;
+  background-color:  PaleVioletRed; 
+  list-style:  none; 
+  padding:  0; 
+  width:  200px; 
+  border:  1px  solid  MediumVioletRed; 
   } 
 
 
