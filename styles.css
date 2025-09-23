@@ -42,10 +42,10 @@ article figure img {
 nav ul  { 
     display:inline-flex;
     justify-content:space-around;
-    gap:3vw;
+    gap:30px;
     background-color:  rgb(123, 194, 165); 
     list-style:  none; 
-    padding:  0; 
+    padding: 10px; 
    
     border:  1px  solid  rgb(253, 253, 253);} 
 
