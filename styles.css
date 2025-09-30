@@ -27,6 +27,7 @@ article h4 {
 
 article  figure1 img { 
   width:  50%; 
+  height: 50%;
   border: 7px  dashed white; 
   padding:  10px;} 
 
