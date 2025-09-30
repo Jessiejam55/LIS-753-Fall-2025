@@ -7,19 +7,19 @@ body  {
 article  {
   width: 1000px;} 
 
-h1  {
+h2  {
   color: lime;
   text-align: center;
   font-size:xx-large } 
 
-article h2 {
+article h3 {
   color: lime;
   text-align: center}
 
 article p  {  
   color:  lime;} 
 
-article h3 {
+article h4 {
   background-color: black; 
   color:  lime;
   padding: 30px;
@@ -65,7 +65,7 @@ nav ul li a  {
 nav ul li  a:hover  { 
     text-decoration:  underline; }
 
-article h3 {
+article h1 {
   background-color: black; 
   color:  lime;
   padding: 30px;
