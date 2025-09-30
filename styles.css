@@ -30,11 +30,8 @@ article  figure1 img {
   border: 7px  dashed white; 
   padding:  10px;} 
 
-article figure1 img { 
-  width: 100%;}
-
   
-  article figure2 img { 
+article figure2 img { 
     width: 50%;
     height: 50%;
     border: 7px  dashed white; 
@@ -65,7 +62,7 @@ nav ul li a  {
 nav ul li  a:hover  { 
     text-decoration:  underline; }
 
-article h1 {
+h1 {
   background-color: black; 
   color:  lime;
   padding: 30px;
