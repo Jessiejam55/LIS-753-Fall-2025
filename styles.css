@@ -22,9 +22,6 @@ article h3 {
   color: lime;
   text-align: center}
 
-article p  {  
-  color:  lime;} 
-
 article h4 {
   background-color: black; 
   color:  lime;
@@ -76,3 +73,6 @@ main {
   color:  lime;
   padding: 30px;
   text-align:left;}
+
+#pacer-instructions  {  
+  color:  red;} 
