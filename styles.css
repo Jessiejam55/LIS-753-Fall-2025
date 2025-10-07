@@ -16,17 +16,17 @@ body header h1 {
 h2  {
   color: lime;
   text-align: center;
-  font-size:xx-large } 
+  font-size:xx-large; } 
 
 article h3 {
   color: lime;
-  text-align: center}
+  text-align:left;}
 
 article h4 {
   background-color: black; 
   color:  lime;
   padding: 30px;
-  text-align: center}
+  text-align:left;}
 
 article  figure1 img { 
   width:  50%; 
