@@ -29,15 +29,16 @@ article h4 {
   text-align:left;}
 
 article  figure1 img { 
-  width:  50%; 
-  height: 50%;
+  width:  40%; 
+  height: 40%;
   border: 7px  dashed white; 
-  padding:  10px;} 
+  padding:  10px;
+  align-content: space-around;} 
 
   
 article figure2 img { 
-    width: 50%;
-    height: 50%;
+    width: 40%;
+    height: 40%;
     border: 7px  dashed white; 
     padding:  10px;} 
 
