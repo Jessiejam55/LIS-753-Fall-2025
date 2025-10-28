@@ -2,7 +2,8 @@ html  {
   background-color: whitesmoke; 
 
 body  {
-  font-family: Courier New;} 
+  font-family: Courier New;
+    font-size: large;} 
 
 article  {
   width: 1000px;} 
@@ -20,7 +21,8 @@ h2  {
 
 article h3 {
   color: green;
-  text-align:left;}
+  text-align:left;
+    font-size: x-large;}
 
 article h4 {
   background-color: whitesmoke; 
@@ -78,8 +80,8 @@ main {
   padding: 30px;
   text-align:left;}
 
-p#pacer-instructions  {  
-  color:  white;} 
+p#overview  {  
+  color:  green;} 
 
 
 li.site-nav-item {
