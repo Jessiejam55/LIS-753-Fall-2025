@@ -37,7 +37,7 @@ figure2 img {
     height: 30%;
     border: 7px  dashed black; 
     padding:  10px;
-    display: flex;} 
+    display: inline-flex;} 
 
 figure3 img { 
     width: 30%;
@@ -50,7 +50,7 @@ figure4 img {
     height: 30%;
     border: 7px  dashed black; 
     padding:  10px;
-    float:right;} 
+    display: inline-flex;} 
 
 nav ul  { 
     display:inline-flex;
@@ -102,4 +102,6 @@ p3 {
     width: 65%}
 
 footer#footer  {  
-  color: black;} 
+  color: black;
+    text-align: center;
+    padding: 5px;} 
