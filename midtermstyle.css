@@ -40,7 +40,7 @@ figure2 img {
     padding:  10px;
     display:block;} 
 
-center {
+.center {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -51,7 +51,8 @@ figure3 img {
     height: 30%;
     border: 7px  dashed black; 
     padding:  10px;
-    display:inline-block;} 
+    display:block;
+    align-items:end ;} 
 
 figure4 img { 
     width: 30%;
