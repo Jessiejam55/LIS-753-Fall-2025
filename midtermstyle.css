@@ -14,22 +14,22 @@ body header h1 {
   text-align:left;}
 
 h2  {
-  color: lime;
+  color: green;
   text-align: center;
   font-size:xx-large; } 
 
 article h3 {
-  color: lime;
+  color: green;
   text-align:left;}
 
 article h4 {
   background-color: whitesmoke; 
-  color:  lime;
+  color:  green;
   padding: 10px;
   text-align:left;}
 
 article  figure1 img { 
-  width:auto; 
+  width: 2050px;; 
   border: 7px  dashed white; 
   padding:  10px;
   align-content: space-around;} 
@@ -62,7 +62,7 @@ nav ul li  a:hover  {
 
 main {
   background-color: whitesmoke; 
-  color:  lime;
+  color:  green;
   padding: 30px;
   text-align:left;}
 
