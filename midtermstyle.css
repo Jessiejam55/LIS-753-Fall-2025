@@ -89,30 +89,35 @@ li.site-nav-item {
   font-size: large;
   font-weight: bold; }
 
-p1 {
+article p1 {
   padding: 10px;
   text-align:center;
-    font-size: x-large;}
+    font-size: x-large;
+    color:green;}
 
-p2 {
+article p2 {
   padding: 10px;
   text-align:left;
-    width: 65%;}
+    width: 65%;
+    color:green;}
 
-p3 {
+article p3 {
   padding: 10px;
   text-align:left;
-    width: 65%;}
+    width: 65%;
+    color:green;}
 
-p4 {
+article p4 {
   padding: 10px;
   text-align:left;
-    width: 65%;}
+    width: 65%;
+    color:green;}
 
-p5 {
+article p5 {
   padding: 10px;
   text-align:left;
-    width: 65%;}
+    width: 65%;
+    color:green;}
 
 footer#footer  {  
   color: black;
