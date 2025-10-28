@@ -113,19 +113,21 @@ article p3 {
   padding: 10px;
   text-align:left;
     width: 65%;
-    color:green;}
+    color:green;
+     font-size: larger;}
 
 article p4 {
   padding: 10px;
   text-align:left;
     width: 65%;
-    color:green;}
+    color:green;
+     font-size: larger;}
 
 article p5 {
   padding: 10px;
   text-align:left;
     width: 65%;
-    color:green;}
+    color:black;}
 
 footer#footer  {  
   color: black;
