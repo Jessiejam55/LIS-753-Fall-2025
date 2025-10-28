@@ -51,14 +51,14 @@ figure3 img {
     height: 20%;
     border: 7px  dashed black; 
     padding:  10px;
-    display:block; float: right;} 
+    display:flex; float: right;} 
 
 figure4 img { 
     width: 20%;
     height: 20%;
     border: 7px  dashed black; 
     padding:  10px;
-    display:block; float: left;} 
+    display:flex; float: left;} 
 
 nav ul  { 
     display:inline-flex;
