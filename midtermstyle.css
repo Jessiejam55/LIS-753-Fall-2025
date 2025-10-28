@@ -1,5 +1,5 @@
 html  { 
-  background-color: black; 
+  background-color: whitesmoke; 
 
 body  {
   font-family: Courier New;} 
@@ -8,8 +8,8 @@ article  {
   width: 1000px;} 
 
 body header h1 {
-  background-color: black; 
-  color:  black;
+  background-color: whitesmoke; 
+  color:  whitesmoke;
   padding: 10px;
   text-align:left;}
 
@@ -23,7 +23,7 @@ article h3 {
   text-align:left;}
 
 article h4 {
-  background-color: black; 
+  background-color: whitesmoke; 
   color:  lime;
   padding: 10px;
   text-align:left;}
