@@ -11,25 +11,19 @@ article  {
 
 h1 {
   background-color: whitesmoke; 
-  color:  green;
+  color:  black;
   padding: 5px;
   text-align:center;}
 
 h2  {
-  color: green;
+  color: black;
   text-align: center;
   font-size:x-large; } 
 
 h3 {
-  color: green;
-  text-align:left;
+  color: black;
+  text-align:center;
     font-size: x-large;}
-
-h4 {
-  background-color: whitesmoke; 
-  color:  green;
-  padding: 10px;
-  text-align:left;}
 
 figure1 img { 
   width:80%; 
