@@ -8,7 +8,7 @@ body  {
 article  {
   width: 1000px;} 
 
-body header h1 {
+h1 {
   background-color: whitesmoke; 
   color:  green;
   padding: 10px;
@@ -19,38 +19,38 @@ h2  {
   text-align: center;
   font-size:xx-large; } 
 
-article h3 {
+h3 {
   color: green;
   text-align:left;
     font-size: x-large;}
 
-article h4 {
+h4 {
   background-color: whitesmoke; 
   color:  green;
   padding: 10px;
   text-align:left;}
 
-article  figure1 img { 
+figure1 img { 
   width:70%; 
   border: 7px  dashed black; 
   padding:  10px;
   align-content: space-around;} 
 
   
-article figure2 img { 
+figure2 img { 
     width: 40%;
     height: 40%;
     border: 7px  dashed black; 
     padding:  10px;
     box-align:right;} 
 
-article figure3 img { 
+figure3 img { 
     width: 40%;
     height: 40%;
     border: 7px  dashed black; 
     padding:  10px;} 
 
-article figure4 img { 
+figure4 img { 
     width: 40%;
     height: 40%;
     border: 7px  dashed black; 
