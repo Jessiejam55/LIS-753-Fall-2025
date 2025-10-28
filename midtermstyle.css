@@ -38,14 +38,20 @@ figure2 img {
     height: 30%;
     border: 7px  dashed black; 
     padding:  10px;
-    display:block; center;} 
+    display:block;} 
+
+center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;}
 
 figure3 img { 
     width: 30%;
     height: 30%;
     border: 7px  dashed black; 
     padding:  10px;
-    display:inline-block; right: auto;} 
+    display:inline-block;} 
 
 figure4 img { 
     width: 30%;
@@ -99,7 +105,8 @@ article p2 {
   padding: 10px;
   text-align:left;
     width: 65%;
-    color:green;}
+    color:green;
+    font-size: larger;}
 
 article p3 {
   padding: 10px;
