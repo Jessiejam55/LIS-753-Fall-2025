@@ -38,14 +38,16 @@ figure2 img {
     height: 30%;
     border: 7px  dashed black; 
     padding:  10px;
-    display:block;} 
+    display:block;
+    align-items: center;} 
 
 figure3 img { 
     width: 30%;
     height: 30%;
     border: 7px  dashed black; 
     padding:  10px;
-    display: flex;} 
+    display:inline-block;
+    align-items: end;} 
 
 figure4 img { 
     width: 30%;
