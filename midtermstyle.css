@@ -4,7 +4,8 @@ html  {
 body  {
   font-family:Georgia, 'Times New Roman', Times, serif;
     font-size: large;
-    font-weight: bold;} 
+    font-weight: bold;
+    } 
 
 article  {
   width:auto;} 
@@ -37,7 +38,7 @@ figure2 img {
     height: 30%;
     border: 7px  dashed black; 
     padding:  10px;
-    display:flex;} 
+    display:block;} 
 
 figure3 img { 
     width: 30%;
@@ -101,17 +102,17 @@ p2 {
 p3 {
   padding: 10px;
   text-align:left;
-    width: 65%}
+    width: 65%;}
 
 p4 {
   padding: 10px;
   text-align:left;
-    width: 65%}
+    width: 65%;}
 
 p5 {
   padding: 10px;
   text-align:left;
-    width: 65%}
+    width: 65%;}
 
 footer#footer  {  
   color: black;
