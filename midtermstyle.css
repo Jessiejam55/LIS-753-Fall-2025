@@ -40,25 +40,25 @@ figure2 img {
     padding:  10px;
     display:block;} 
 
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 20%;}
-
 figure3 img { 
     width: 20%;
     height: 20%;
     border: 7px  dashed black; 
     padding:  10px;
-    display:flex; float: right;} 
+    display:inline-block;} 
 
 figure4 img { 
     width: 20%;
     height: 20%;
     border: 7px  dashed black; 
     padding:  10px;
-    display:flex; float: left;} 
+    display:inline-block} 
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;}
 
 nav ul  { 
     display:inline-flex;
