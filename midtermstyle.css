@@ -3,15 +3,16 @@ html  {
 
 body  {
   font-family: Courier New;
-    font-size: large;} 
+    font-size: large;
+    font-weight: bold;} 
 
 article  {
-  width: 1000px;} 
+  width:auto;} 
 
 h1 {
   background-color: whitesmoke; 
   color:  green;
-  padding: 10px;
+  padding: 7px;
   text-align:center;}
 
 h2  {
@@ -31,10 +32,10 @@ h4 {
   text-align:left;}
 
 figure1 img { 
-  width:70%; 
-  border: 7px  dashed black; 
+  width:80%; 
+  border: 7px; 
   padding:  10px;
-  align-content: space-around;} 
+  align-content: center;} 
 
   
 figure2 img { 
@@ -42,7 +43,7 @@ figure2 img {
     height: 40%;
     border: 7px  dashed black; 
     padding:  10px;
-    box-align:right;} 
+    align-content:right;} 
 
 figure3 img { 
     width: 40%;
@@ -61,7 +62,7 @@ nav ul  {
     display:inline-flex;
     justify-content:space-around;
     gap:30px;
-    background-color:  rgb(5, 202, 120); 
+    background-color:#05FF97; 
     list-style: none; 
     padding: 10px; 
     width: 1450px;
@@ -87,7 +88,7 @@ p#overview  {
 
 
 li.site-nav-item {
-  color:  white; 
+  color:  black; 
   text-decoration: none ;
   font-size: large;
   font-weight: bold; }
