@@ -29,8 +29,7 @@ article h4 {
   text-align:left;}
 
 article  figure1 img { 
-  width:  40%; 
-  height: 40%;
+  width:auto; 
   border: 7px  dashed white; 
   padding:  10px;
   align-content: space-around;} 
@@ -62,7 +61,7 @@ nav ul li  a:hover  {
 
 
 main {
-  background-color: black; 
+  background-color: whitesmoke; 
   color:  lime;
   padding: 30px;
   text-align:left;}
