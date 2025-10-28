@@ -34,8 +34,8 @@ figure1 img {
 
   
 figure2 img { 
-    width: 30%;
-    height: 30%;
+    width: 20%;
+    height: 20%;
     border: 7px  dashed black; 
     padding:  10px;
     display:block;} 
@@ -44,19 +44,18 @@ figure2 img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 30%;}
+  width: 20%;}
 
 figure3 img { 
-    width: 30%;
-    height: 30%;
+    width: 20%;
+    height: 20%;
     border: 7px  dashed black; 
     padding:  10px;
-    display:block;
-    align-items:end ;} 
+    display:block; position: right;} 
 
 figure4 img { 
-    width: 30%;
-    height: 30%;
+    width: 20%;
+    height: 20%;
     border: 7px  dashed black; 
     padding:  10px;
     display: flex;} 
