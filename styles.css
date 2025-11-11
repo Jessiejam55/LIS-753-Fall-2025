@@ -60,7 +60,9 @@ nav ul  {
   gap: 30px ;
   max-width: 100%;
   max-height: auto;
-  width: 1450px;}
+  width: 1450px;
+  border:  5px  dashed rgb(253, 253, 253);
+  background-color: #51FBB4);}
 }
 
 nav ul li  { 
