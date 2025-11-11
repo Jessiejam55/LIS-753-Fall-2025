@@ -52,9 +52,11 @@ nav ul  {
     border:  5px  dashed rgb(253, 253, 253); } 
 
 @media all and (min-width:376px) {
+  nav ul {
   display:inline-flex;
   justify-content:space-around;
   gap: 30px ;}
+}
 
 nav ul li  { 
     padding:  5px; } 
