@@ -92,3 +92,17 @@ li.site-nav-item {
 img {
   max-width: 100%; 
   max-height: auto;}
+
+#message {
+    background: lime;
+    border: 3px solid green;
+    padding: 10px 100px;
+    margin: 12px 0;
+    border-radius: 5px;
+    font-weight:bold;
+    font-color:white; 
+  }
+  
+#message button { 
+    margin: 3px ;
+  }
