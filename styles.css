@@ -89,8 +89,8 @@ img {
   max-height: auto;}
 
 #message {
-    background: rgb(0, 166, 255);
-    border: 3px solid rgb(0, 70, 128);
+    background: lightskyblue;
+    border: 3px solid blue);
     padding: 10px 100px;
     margin: 12px 0;
     border-radius: 5px;
