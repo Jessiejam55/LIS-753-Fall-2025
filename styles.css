@@ -7,22 +7,17 @@ body  {
 article  {
   max-width: 100%;} 
 
-body header h1 {
-  background-color: black; 
-  color:  black;
-  padding: 10px;
-  text-align:left;}
 
-h2  {
+h1  {
   color: lime;
   text-align: center;
   font-size:xx-large; } 
 
-article h3 {
+article h2 {
   color: lime;
   text-align:left;}
 
-article h4 {
+article h3 {
   background-color: black; 
   color:  lime;
   padding: 10px;
