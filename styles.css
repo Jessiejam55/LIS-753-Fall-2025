@@ -103,6 +103,9 @@ img {
     font-color:white; 
   }
   
-#message button { 
+ #message button { 
     margin: 3px ;
+    font-family: Courier New;
+    background: white; 
+    font-weight: bold
   }
