@@ -89,13 +89,13 @@ img {
   max-height: auto;}
 
 #message {
-    background: lightskyblue;
-    border: 3px solid blue);
+    background:grey;
+    border: 3px solid darkgrey);
     padding: 10px 100px;
     margin: 12px 0;
     border-radius: 5px;
     font-weight:bold;
-    font-color:white; 
+    font-color:black; 
   }
   
 #message button { 
