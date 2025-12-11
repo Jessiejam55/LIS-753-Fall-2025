@@ -30,6 +30,13 @@ article img {
   padding:  10px;
   align-content: space-around;} 
 
+article video { 
+  width:  40%; 
+  height: 40%;
+  border: 7px  dashed white; 
+  padding:  10px;
+  align-content: space-around;}
+
 
 nav ul  { 
     background-color:rgb(54, 252, 169); 
