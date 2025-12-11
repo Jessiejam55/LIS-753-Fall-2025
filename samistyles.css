@@ -104,3 +104,8 @@ img {
     background: white; 
     font-weight: bold;
   }
+
+  footer#footer  {  
+  color: black;
+    text-align: center;
+    padding: 5px;} 
