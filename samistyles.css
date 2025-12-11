@@ -23,20 +23,13 @@ article h3 {
   padding: 10px;
   text-align:left;}
 
-article  figure1 img { 
+article img { 
   width:  40%; 
   height: 40%;
   border: 7px  dashed white; 
   padding:  10px;
   align-content: space-around;} 
 
-  
-article figure2 img { 
-    width: 40%;
-    height: 40%;
-    border: 7px  dashed white; 
-    padding:  10px;
-    align-content: space-around;} 
 
 nav ul  { 
     background-color:rgb(54, 252, 169); 
@@ -72,11 +65,9 @@ main {
   padding: 30px;
   text-align:left;}
 
-p#pacer-instructions  {  
-  color:  white;} 
-
-article p2 {
-  color: white;}
+article  {
+  color: white;
+}
 
 li.site-nav-item {
   color:  white; 
@@ -106,6 +97,6 @@ img {
   }
 
   footer#footer  {  
-  color: black;
+  color: grey;
     text-align: center;
     padding: 5px;} 
